@@ -17,6 +17,8 @@ $auto = [
         echo "$posicion: $valor <br>";
     }
 
+echo "Practicando con gitKraken";
+
 ?>
 
 
